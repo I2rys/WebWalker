@@ -20,8 +20,9 @@ NPM Packages:
     
 ## Usage
 
-    node index.js <url> <extensions>
+    node index.js <output> <url> <extensions>
 
+ - output - The output of the results.
  - url - The website url that will be scan for the extensions that you specified.
  - extensions- The extensions to get on the website.
 ## Note
